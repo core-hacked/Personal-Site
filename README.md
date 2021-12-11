@@ -89,7 +89,7 @@ You can deploy the server however you want, this is just an example of how you c
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/core-hacked/Personal-Site.git
    ```
 2. Start an Apache server to run the repo
    ```sh
