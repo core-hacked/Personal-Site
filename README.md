@@ -14,7 +14,7 @@
     <img src="favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">The Core</h3>
+  <h3 align="center">core-hacked</h3>
 
   <p align="center">
     corehacked.cf is my personal website, open-sourced and hosted in this repository.
