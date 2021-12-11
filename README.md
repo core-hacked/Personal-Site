@@ -135,13 +135,13 @@ Distributed under the GNU GPL v3 License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/core-hacked/TheCore.cf.svg?style=for-the-badge
-[contributors-url]: https://github.com/core-hacked/TheCore.cf/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/core-hacked/TheCore.cf.svg?style=for-the-badge
-[forks-url]: https://github.com/core-hacked/TheCore.cf/network/members
-[stars-shield]: https://img.shields.io/github/stars/core-hacked/TheCore.cf.svg?style=for-the-badge
-[stars-url]: https://github.com/core-hacked/TheCore.cf/stargazers
-[issues-shield]: https://img.shields.io/github/issues/core-hacked/TheCore.cf.svg?style=for-the-badge
-[issues-url]: https://github.com/core-hacked/TheCore.cf/issues
-[license-shield]: https://img.shields.io/github/license/core-hacked/TheCore.cf.svg?style=for-the-badge
-[license-url]: https://github.com/core-hacked/TheCore.cf/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/core-hacked/Personal-Site.svg?style=for-the-badge
+[contributors-url]: https://github.com/core-hacked/Personal-Site/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/core-hacked/Personal-Site.svg?style=for-the-badge
+[forks-url]: https://github.com/core-hacked/Personal-Site/network/members
+[stars-shield]: https://img.shields.io/github/stars/core-hacked/Personal-Site.svg?style=for-the-badge
+[stars-url]: https://github.com/core-hacked/Personal-Site/stargazers
+[issues-shield]: https://img.shields.io/github/issues/core-hacked/Personal-Site.svg?style=for-the-badge
+[issues-url]: https://github.com/core-hacked/Personal-Site/issues
+[license-shield]: https://img.shields.io/github/license/core-hacked/Personal-Site.svg?style=for-the-badge
+[license-url]: https://github.com/core-hacked/Personal-Site/blob/master/LICENSE.txt
