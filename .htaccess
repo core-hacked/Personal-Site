@@ -1,5 +1,9 @@
 DirectoryIndex index.php index.html index.htm index2.html
 
-ErrorDocument 403 https://corehacked.cf/403/
-ErrorDocument 404 https://corehacked.cf/404/
-ErrorDocument 500 https://corehacked.cf/500/
+ErrorDocument 403 https://www.corehacked.cf/403/
+ErrorDocument 404 https://www.corehacked.cf/404/
+ErrorDocument 500 https://www.corehacked.cf/500/
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^(www\.|$) [NC]
+RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
