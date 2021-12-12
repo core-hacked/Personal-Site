@@ -21,6 +21,8 @@
     <br />
     <a href="https://corehacked.cf/">View Website</a>
     ·
+  <a href="https://core-hacked.github.io/Personal-Site/">View on GitHub Pages</a>
+    ·
     <a href="https://github.com/core-hacked/Personal-Site/issues">Report Bug</a>
     ·
     <a href="https://github.com/core-hacked/Personal-Site/issues">Request Feature</a>
@@ -51,7 +53,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
