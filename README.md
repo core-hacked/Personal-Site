@@ -3,6 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![View Website][website-shield]][website-url]
 
 
 
@@ -136,13 +137,15 @@ Distributed under the GNU GPL v3 License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/core-hacked/Personal-Site.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/core-hacked/Personal-Site.svg?colorA=1e1e28&colorB=E38C8F&style=for-the-badge&logo=starship%20style=for-the-badge
 [contributors-url]: https://github.com/core-hacked/Personal-Site/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/core-hacked/Personal-Site.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/core-hacked/Personal-Site.svg?colorA=1e1e28&colorB=A4B9EF&style=for-the-badge&logo=starship%20style=for-the-badge
 [forks-url]: https://github.com/core-hacked/Personal-Site/network/members
-[stars-shield]: https://img.shields.io/github/stars/core-hacked/Personal-Site.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/core-hacked/Personal-Site.svg?colorA=1e1e28&colorB=EBDDAA&style=for-the-badge&logo=starship%20style=for-the-badge
 [stars-url]: https://github.com/core-hacked/Personal-Site/stargazers
-[issues-shield]: https://img.shields.io/github/issues/core-hacked/Personal-Site.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/core-hacked/Personal-Site.svg?colorA=1e1e28&colorB=B1E3AD&style=for-the-badge&logo=starship%20style=for-the-badge
 [issues-url]: https://github.com/core-hacked/Personal-Site/issues
-[license-shield]: https://img.shields.io/github/license/core-hacked/Personal-Site.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/core-hacked/Personal-Site.svg?colorA=1e1e28&colorB=F9C096&style=for-the-badge&logo=starship%20style=for-the-badge
 [license-url]: https://github.com/core-hacked/Personal-Site/blob/master/LICENSE.txt
+[website-shield]: https://img.shields.io/badge/Website-View%20Deployment-blue?colorA=1e1e28&colorB=A4B9EF&style=for-the-badge&logo=starship%20style=for-the-badge
+[website-url]: https://www.corehacked.cf/
