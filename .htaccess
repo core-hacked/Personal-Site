@@ -1,4 +1,4 @@
-DirectoryIndex index.php index.html index.htm index2.html
+DirectoryIndex index.html index.htm index2.html index.php
 
 ErrorDocument 403 https://www.corehacked.cf/403/
 ErrorDocument 404 https://www.corehacked.cf/404/

@@ -1,0 +1,346 @@
+*, ::before, ::after
+  box-sizing: border-box
+  margin: 0
+  padding: 0
+
+body
+  height: 100vh
+  background-color: #000
+
+.view-src 
+  text-decoration: none
+  color: #414141
+  &:hover
+    color: #f03e3e
+    text-decoration: underline
+
+.info
+  position: absolute
+  top: 40%
+  left: 50%
+  transform: translate(-50%, -50%)
+  text-align: center
+
+.about
+  @media screen and (max-width: 238px)
+    height: 110vh
+  @media screen and (max-width: 190px)
+    height: 160vh
+  position: relative
+  align-content: center
+  align-self: center
+  align-items: center
+  justify-content: center
+  top: 5%
+  .about-hi
+    font-size: 5em
+    @media screen and (max-width: 1019px)
+      font-size: 4.9em
+    @media screen and (max-width: 998px)
+      font-size: 4.8em
+    @media screen and (max-width: 978px)
+      font-size: 4.5em
+    @media screen and (max-width: 917px)
+      font-size: 4.2em
+    @media screen and (max-width: 855px)
+      font-size: 4em
+    @media screen and (max-width: 815px)
+      font-size: 3em
+    @media screen and (max-width: 611px)
+      font-size: 2.5em
+    @media screen and (max-width: 509px)
+      font-size: 2em
+
+  margin-left: 25%
+  margin-right: 25%
+  @media screen and (max-width: 649px)
+    margin-left: 20%
+    margin-right: 20%
+  @media screen and (max-width: 541px)
+    margin-left: 15%
+    margin-right: 15%
+  @media screen and (max-width: 316px)
+    margin-left: 5%
+    margin-right: 5%
+  text-align: center
+  color: #fff
+  font-family: Unica One, sans-serif
+  a
+    text-decoration: none
+    &:hover
+      border: 2px solid #f03e3e
+      border-radius: 50%
+
+.contactme
+  text-decoration: underline !important
+  color: #919191
+  &:hover
+    text-decoration: underline
+    border: none !important
+    color: #f03e3e
+    text-decoration-color: #f03e3e
+
+.about-portfolio
+  text-decoration: underline !important
+  text-decoration-color: #f03e3e !important
+  color: #919191
+  font-size: 20pt
+  padding: 8px
+  &:hover
+    border: none !important
+    border-radius: 5px !important
+    color: #fff
+    text-shadow: #f03e3e 0px 0px 10px
+
+.glitch-bloc
+  position: relative
+  display: flex
+  justify-content: center
+  align-items: center
+
+.glitchedAnim, .invisible-text
+  font-family: Unica One, sans-serif
+  font-size: 100px
+  font-weight: 400
+  line-height: 1.1
+  color: #fff
+  @media screen and (max-width: 768px) 
+    font-size: 50px
+
+.glitchedAnim
+  position: absolute
+  top: 0
+  opacity: 0.9
+
+.invisible-text
+  visibility: hidden
+
+.glitchedAnim
+  &:nth-child(2)
+    color: #f03e3e
+    animation: skewAnim 3s infinite
+
+  &:nth-child(3)
+    color: #3df0cf
+    animation: glitchAnim2 3s infinite
+
+  &:nth-child(4)
+    color: #f1f1f1
+    animation: glitchAnim1 3s infinite
+
+.txt-info
+  font-family: Unica One, sans-serif
+  color: #f1f1f1
+  font-size: 25px
+
+.footer
+  position: fixed
+  left: 0
+  bottom: 0
+  width: 100%
+  background-color: #000000
+  color: #414141
+  text-align: center
+  font-size: 18px
+  font-family: Unica One, sans-serif
+  padding: 20px
+
+.link-cont
+  position: fixed
+  font-size: 24px
+  top: 0
+
+.link
+  margin: 0 auto
+  display: inline-block
+  position: relative
+  text-decoration: none
+  padding: 10px 0
+  color: #414141
+  text-align: center
+  font-family: Unica One, sans-serif
+  font-size: 25px
+  margin-right: 8px
+
+  &:hover
+    display: inline-block
+    position: relative
+    text-decoration: none
+    padding: 10px 0
+    color: #e0efec
+    text-shadow: #f03e3e 0px 0px 10px
+    text-align: center
+
+.link-wrapper
+  position: relative
+  display: block
+  padding: 20px 0
+
+.inner-wrapper
+  position: relative
+  display: inline-block
+
+.hover-1
+  &:after
+    content: ''
+    position: absolute
+    width: 100%
+    height: 3px
+    bottom: 0
+    left: 0
+    background-color: #f03e3e
+    text-shadow: #3df0cf 0px 0px 10px
+    transform: scaleX(0)
+    transform-origin: bottom right
+    transition: transform 0.3s
+
+  &:hover:after
+    transform-origin: bottom left
+    transform: scaleX(1)
+
+header
+  background: #000
+  position: fixed
+  height: 60px
+  z-index: 100
+  width: 100%
+  top: 0
+
+.contact-page
+  @media screen and (max-width: 238px)
+    height: 110vh
+  @media screen and (max-width: 190px)
+    height: 160vh
+  position: relative
+  align-content: center
+  align-self: center
+  align-items: center
+  justify-content: center
+  top: 10%
+  margin-left: 25%
+  margin-right: 25%
+  @media screen and (max-width: 649px)
+    margin-left: 20%
+    margin-right: 20%
+  @media screen and (max-width: 541px)
+    margin-left: 15%
+    margin-right: 15%
+  @media screen and (max-width: 316px)
+    margin-left: 5%
+    margin-right: 5%
+  text-align: center
+  color: #fff
+  font-family: Unica One, sans-serif
+  a
+    text-decoration: none
+    color: #f03e3e
+    &:hover
+      text-decoration: underline
+  .glitchedAnim, .invisible-text
+    font-size: 100px !important
+    @media screen and (max-width: 386px) 
+      font-size: 75px !important
+    @media screen and (max-width: 304px) 
+      font-size: 60px !important
+
+@keyframes glitchAnim1
+  7%
+    transform: none
+
+  10%
+    transform: translate(6px, -2px)
+
+  13%
+    transform: none
+
+  20%
+    transform: none
+
+  23%
+    transform: translate(-12px, -7px)
+
+  26%
+    transform: none
+
+  40%
+    transform: none
+
+  43%
+    transform: translate(10px, -9px)
+
+  46%
+    transform: none
+
+  65%
+    transform: none
+
+  68%
+    transform: translate(7px, 5px)
+
+  71%
+    transform: none
+
+  100%
+    transform: none
+
+@keyframes glitchAnim2
+  7%
+    transform: none
+
+  10%
+    transform: translate(-6px, 2px)
+
+  13%
+    transform: none
+
+  20%
+    transform: none
+
+  23%
+    transform: translate(12px, 7px)
+
+  26%
+    transform: none
+
+  40%
+    transform: none
+
+  43%
+    transform: translate(-10px, 9px)
+
+  46%
+    transform: none
+
+  65%
+    transform: none
+
+  68%
+    transform: translate(-7px, 5px)
+
+  71%
+    transform: none
+
+  100%
+    transform: none
+
+@keyframes skewAnim
+  20%
+    transform: none
+
+  23%
+    transform: skew(5deg, -5deg) translate(10px, 5px)
+
+  26%
+    transform: none
+
+  40%
+    transform: none
+
+  43%
+    transform: skew(5deg, -10deg) translate(-5px, 2px)
+
+  46%
+    transform: none
+
+  100%
+    transform: none
