@@ -22,8 +22,6 @@
     <br />
     <a href="https://corehacked.codes/">View Website</a>
     ·
-  <a href="https://core-hacked.github.io/Personal-Site/">View on GitHub Pages</a>
-    ·
     <a href="https://github.com/core-hacked/Personal-Site/issues">Report Bug</a>
     ·
     <a href="https://github.com/core-hacked/Personal-Site/issues">Request Feature</a>
