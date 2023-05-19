@@ -18,9 +18,9 @@
   <h3 align="center">core-hacked</h3>
 
   <p align="center">
-    corehacked.codes is my personal website, open-sourced and hosted in this repository.
+    corehacked.com is my personal website, open-sourced and hosted in this repository.
     <br />
-    <a href="https://corehacked.codes/">View Website</a>
+    <a href="https://corehacked.com/">View Website</a>
     ·
     <a href="https://github.com/core-hacked/Personal-Site/issues">Report Bug</a>
     ·
@@ -136,7 +136,7 @@ Distributed under the GNU GPL v3 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[info@corehacked.codes](mailto:info@corehacked.codes)
+[info@corehacked.com](mailto:info@corehacked.com)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -152,4 +152,4 @@ Distributed under the GNU GPL v3 License. See `LICENSE` for more information.
 [license-shield]: https://img.shields.io/github/license/core-hacked/Personal-Site.svg?colorA=1e1e28&colorB=F9C096&style=for-the-badge&logo=starship%20style=for-the-badge
 [license-url]: https://github.com/core-hacked/Personal-Site/blob/master/LICENSE.txt
 [website-shield]: https://img.shields.io/badge/Website-View%20Deployment-blue?colorA=1e1e28&colorB=A4B9EF&style=for-the-badge&logo=starship%20style=for-the-badge
-[website-url]: https://www.corehacked.codes/
+[website-url]: https://www.corehacked.com/
