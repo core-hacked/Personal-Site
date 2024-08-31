@@ -6,7 +6,7 @@
 [![View Website][website-shield]][website-url]
 
 
-
+> ℹ️ Repository for my old website. New repo: coming soon
 
 <!-- PROJECT LOGO -->
 <br />
